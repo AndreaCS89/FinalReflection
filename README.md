@@ -1,11 +1,11 @@
 # FinalReflection
 Final reflection for CS 470: A summary of skills learned during the development of a cloud-based full-stack application, including insights on scalability, serverless architecture, and planning for future growth.
 
-**CS – 470 Full Stack Development II 2024
-Final Reflection
-Andrea Carmen Sherry
-10/24/2024
-https://www.youtube.com/watch?v=RM4PZPZk0AM**
+**CS – 470 Full Stack Development II 2024**
+**Final Reflection**
+**Andrea Carmen Sherry**
+**10/24/2024**
+**https://www.youtube.com/watch?v=RM4PZPZk0AM**
 
 First, I must say that completing this course was a very rewarding experience that increased my skills and prepared me for future professional opportunities. By developing a full-stack web application in the cloud, I learned to integrate multiple cloud services and microservices, which has given me a better understanding of cloud infrastructure and development. This knowledge surely aligns with my professional goal of pursuing a career in software development or cybersecurity, as the skills that I developed in building scalable and resilient applications are essential in these fields.
 Next, throughout this course, I learned to use Docker for containerization, Amazon Web Services for hosting, and got experience in serverless computing using AWS Lambda. These skills, along with a solid knowledge of API development and cloud architecture, have made me a wanted candidate in the tech field. I am confident in my ability to design and manage scalable web applications, and I now understand how to leverage cloud services to effectively manage resources. Additionally, I developed skills in tools like Docker Compose, AWS S3, and API Gateway, which are very desired in cloud-based roles. My strengths as a developer lie in my adaptability and problem-solving abilities, and this course has also strengthened my attention to scalability and optimization while building systems. I feel like I am well prepared to take on roles like a software developer, cybersecurity specialist, cloud developer, or a DevOps engineer.
