@@ -2,9 +2,13 @@
 Final reflection for CS 470: A summary of skills learned during the development of a cloud-based full-stack application, including insights on scalability, serverless architecture, and planning for future growth.
 
 **CS – 470 Full Stack Development II 2024**
+
 **Final Reflection**
+
 **Andrea Carmen Sherry**
+
 **10/24/2024**
+
 **https://www.youtube.com/watch?v=RM4PZPZk0AM**
 
 First, I must say that completing this course was a very rewarding experience that increased my skills and prepared me for future professional opportunities. By developing a full-stack web application in the cloud, I learned to integrate multiple cloud services and microservices, which has given me a better understanding of cloud infrastructure and development. This knowledge surely aligns with my professional goal of pursuing a career in software development or cybersecurity, as the skills that I developed in building scalable and resilient applications are essential in these fields.
